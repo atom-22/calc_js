@@ -1,0 +1,16 @@
+body {
+	/*background: url('images/free.jpg');*/
+	/*background-color: #424242;*/
+	/*background-size: cover;*/
+	font-family: Tahoma;
+}
+
+.newStyle{
+	background-color:black;
+	height: 270px !important;
+	width: 210px !important;			
+}
+
+.button {
+	margin: 4px 5px !important;
+}
